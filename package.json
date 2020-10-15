@@ -1,0 +1,6 @@
+{
+  "name": "js-test",
+  "devDependencies": {
+    "@prisma/cli": "2.10.0-dev.11"
+  }
+}

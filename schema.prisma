@@ -1,0 +1,5 @@
+datasource chinook {
+  provider        = "sqlserver"
+  url             = "sqlserver://localhost:1433;database=master;user=SA;password=<YourStrong@Passw0rd>;trustServerCertificate=true;encrypt=DANGER_PLAINTEXT"
+  previewFeatures = ["microsoftSqlServer"]
+}
